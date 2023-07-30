@@ -16,7 +16,7 @@ Run script with <br/>
 `python main.py` <br/>
 after that you should enter the PATH of Ip range file <br/>
 after that enter ports that you want to scan it! <br/>
-\n
+<br/>
 almost done!! <br/>
 Go true_hosts.txt <br/>
 and you can see that hosts with open ports :) <br/>
